@@ -1,0 +1,9 @@
+google-api-python-client
+pytest
+pytest-cov
+pytest-mock==1.7.1
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+python-coveralls
+six
